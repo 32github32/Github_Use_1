@@ -4,4 +4,4 @@
 
 #上传图片的方式
 
-![wangbb](https://githubfast.com/32github32/use-github/blob/main/wang.png)
+(https://githubfast.com/32github32/use-github/blob/main/wang.png)
