@@ -5,4 +5,4 @@
 #上传图片的方式
 
 ![phone](https://githubfast.com/32github32/use-github/blob/main/wang.png)
-![哈哈](https://githubfast.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/images/8.jpg)
+![哈哈](https://githubfast.com/32github32/use-github/blob/main/wang.png)
